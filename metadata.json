@@ -2,5 +2,6 @@
   "name": "NICE",
   "symbol": "NIC",
   "description": "so nice to have that token",
-  "image": "https://raw.githubusercontent.com/lypong/img/refs/heads/main/nice.png"
+  "image": "https://raw.githubusercontent.com/lypong/img/refs/heads/main/nice.png",
+  "isMutable": 0
 }
