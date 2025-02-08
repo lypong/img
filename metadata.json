@@ -1,7 +1,15 @@
 {
-  "name": "NICE",
-  "symbol": "NIC",
-  "description": "so nice to have that token",
-  "image": "https://raw.githubusercontent.com/lypong/img/refs/heads/main/nice.png",
-  "isMutable": 0
+   "name":"NICE",
+   "symbol":"NIC",
+   "description":"so nice to have that token",
+   "image":"https://raw.githubusercontent.com/lypong/img/refs/heads/main/nice.png",
+   "properties":{
+      "files":[
+         {
+            "uri":"https://raw.githubusercontent.com/lypong/img/refs/heads/main/nice.png",
+            "type":"image/png"
+         }
+      ],
+      "category":"image"
+   }
 }
